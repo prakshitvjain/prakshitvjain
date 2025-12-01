@@ -40,7 +40,8 @@ prakshitjain@fedora:~$ whoami
 ## 🚩 Badges
 
 <p align="center">
-  <img src="https://media.badgr.com/uploads/badges/assertion-gc0aKTSVTM6z3SzNA1RJhQ.png" onclick='window.open("https://badgr.com/public/assertions/KYTBPr0UTcCYYm7mUs7QuQ?identity__email=prakshit17036%40gmail.com")' width=100px alt=""/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.ine.com%2Fcertifications%2Fbadges%2FeJPT.png" width=80px height=100px alt="eJPT"/>
+  <img src="https://media.badgr.com/uploads/badges/assertion-gc0aKTSVTM6z3SzNA1RJhQ.png" onclick='window.open("https://badgr.com/public/assertions/KYTBPr0UTcCYYm7mUs7QuQ?identity__email=prakshit17036%40gmail.com")' width=100px alt="DEADFACE_CTF"/>
 </p>
 
 ---
