@@ -33,7 +33,7 @@ prakshitjain@fedora:~$ whoami
 
 ## 🚀 Projects
 
-- **SafeX**: A secure Password Vault built in PHP ([repo link](https://github.com/prakshitvjain/safex-password-vault))
+- **SafeX**: A secure Password Vault built in PHP **([Click here](https://github.com/prakshitvjain/safex-password-vault))**
 - **(REDACTED)**: Working on a cool Project. Will be released soon :)
 
 ---
@@ -42,14 +42,16 @@ prakshitjain@fedora:~$ whoami
 <p align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.ine.com%2Fcertifications%2Fbadges%2FeJPT.png" width=80px height=100px alt="eJPT"/>
   <img src="https://media.badgr.com/uploads/badges/assertion-gc0aKTSVTM6z3SzNA1RJhQ.png" onclick='window.open("https://badgr.com/public/assertions/KYTBPr0UTcCYYm7mUs7QuQ?identity__email=prakshit17036%40gmail.com")' width=100px alt="DEADFACE_CTF"/>
+  <img width="105" height="105" alt="image" src="https://github.com/user-attachments/assets/81c2a930-4ca9-43c4-912c-d8beccb10824" />
+
 </p>
 
 ---
 
 ## 📝 Writeups & Socials
 
-- [Medium Writeups](https://medium.com/@prakshit)
-- [LinkedIn](https://linkedin.com/in/prakshitjain)
+- **[Medium Writeups](https://medium.com/@prakshit)**
+- **[LinkedIn](https://linkedin.com/in/prakshitjain)**
 
 ---
 
